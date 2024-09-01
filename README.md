@@ -72,7 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- **Your Name**: [MY Portfolio](https://sahad.vercel.app/)
+- **MD SAHADUZZAMAN**: [MY Portfolio](https://sahad.vercel.app/)
 - **Email**: [sahaduzzaman.cse@gmail.com](mailto:sahaduzzaman.cse@gmail.com)
 - **GitHub**: [@sahadcse](https://github.com/sahadcse)
 
